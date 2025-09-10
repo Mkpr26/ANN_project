@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-tensorflow
+tensorflow==2.15
 scikit-learn
 tensorboard
 matplotlib
+ipykernel
