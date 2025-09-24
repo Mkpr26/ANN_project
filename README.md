@@ -1,9 +1,9 @@
-Link of deployment : https://mkpra26-ann.streamlit.app/
-
 # 🧠 Artificial Neural Network for Customer Churn Prediction  
 
 This project implements an **Artificial Neural Network (ANN)** to predict **customer churn** (whether a customer will leave the bank).  
 It includes **data preprocessing, model training, evaluation, and deployment** of the model as a simple app.  
+
+Link of Customer Churn Prediction : https://mkpra26-ann.streamlit.app/
 
 ## 📂 Project Structure
 
