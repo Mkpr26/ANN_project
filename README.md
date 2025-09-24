@@ -9,14 +9,23 @@ Link of Customer Churn Prediction : https://mkpra26-ann.streamlit.app/
 
 ANN_project/
 │── app.py # Deployment script (Streamlit/FastAPI)
+
 │── experiments.ipynb # Data exploration & model experiments
+
 │── prediction.ipynb # Model inference on new data
+
 │── Churn_Modelling.csv # Dataset
+
 │── model.h5 # Trained ANN model
+
 │── scaler.pkl # Saved StandardScaler
+
 │── label_encoder_gender.pkl # Encoder for Gender
+
 │── onehot_encoder_geo.pkl # Encoder for Geography
+
 │── requirements.txt # Python dependencies
+
 │── README.md # Project documentation
 
 
