@@ -53,8 +53,3 @@ ANN_project/
 --> Model explainability (SHAP, LIME)
 --> Add Dockerfile for containerized deployment
 --> Deploy via FastAPI with REST endpoints
-
-Author
-Manish Kumar
-M.Tech, Mobility Engineering @ IISc Bangalore
-Skills: Python | ML/DL | NLP | Hugging Face | LangChain | Deployment
